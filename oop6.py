@@ -1,3 +1,7 @@
+'''
+Saving objects in all list
+'''
+
 class Items:
     discount=20
     all=[]
