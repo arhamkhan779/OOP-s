@@ -10,8 +10,8 @@ class Item:
 
 item1=Item()
 
-name=item1.name="bottle"
-price=item1.price=5000
-quantity=item1.quantity=10
+item1.name="bottle"
+item1.price=5000
+item1.quantity=10
 
-print(name,price,quantity)
+print(item1.name,item1.price,item1.quantity)
